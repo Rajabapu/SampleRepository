@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Gittable" max_length="40" name="x_363116_gitdemo_gittable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="col1" max_length="40" name="col1" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="col2" max_length="40" name="col2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="col3" max_length="40" name="col3" type="integer"/>
         <element label="field1" max_length="40" name="field1" type="string"/>
         <element label="field2" max_length="40" name="field2" type="string"/>
     </element>
