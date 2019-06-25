@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Gittable" max_length="40" name="x_363116_gitdemo_gittable" type="collection">
+        <element label="field1" max_length="40" name="field1" type="string"/>
+        <element label="field2" max_length="40" name="field2" type="string"/>
+    </element>
+</database>

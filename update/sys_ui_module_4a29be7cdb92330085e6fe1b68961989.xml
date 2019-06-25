@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Gittable">8629be7cdb92330085e6fe1b68961987</application>
+        <filter/>
+        <name>Gittables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_363116_gitdemo.gittable_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-25 08:32:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a29be7cdb92330085e6fe1b68961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gittables</sys_name>
+        <sys_package display_value="GitDemo" source="x_363116_gitdemo">27983eb8db92330085e6fe1b68961951</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitDemo">27983eb8db92330085e6fe1b68961951</sys_scope>
+        <sys_update_name>sys_ui_module_4a29be7cdb92330085e6fe1b68961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 08:32:59</sys_updated_on>
+        <table>x_363116_gitdemo_gittable</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
