@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="field1" label="Field1" language="en" table="x_363116_gitdemo_gittable">
+    <sys_documentation element="col1" label="Col1" language="en" table="x_363116_gitdemo_gittable">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>field1</element>
+            <element>col1</element>
             <help/>
             <hint/>
-            <label>Field1</label>
+            <label>Col1</label>
             <language>en</language>
             <name>x_363116_gitdemo_gittable</name>
-            <plural>Field1s</plural>
+            <plural>Col1s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-25 08:33:00</sys_created_on>
-            <sys_id>00c897fcdb16330085e6fe1b689619d9</sys_id>
+            <sys_created_on>2019-06-25 10:44:01</sys_created_on>
+            <sys_id>d927137cdb16330085e6fe1b689619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Field1</sys_name>
+            <sys_name>Col1</sys_name>
             <sys_package display_value="GitDemo" source="x_363116_gitdemo">27983eb8db92330085e6fe1b68961951</sys_package>
             <sys_policy/>
             <sys_scope display_value="GitDemo">27983eb8db92330085e6fe1b68961951</sys_scope>
-            <sys_update_name>sys_documentation_x_363116_gitdemo_gittable_field1_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_363116_gitdemo_gittable_col1_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-25 08:33:00</sys_updated_on>
+            <sys_updated_on>2019-06-25 10:44:01</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
